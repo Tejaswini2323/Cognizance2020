@@ -42,4 +42,5 @@ Despite political controversy about climate change, a major report released Sept
 10. Encourage Others to Conserve
 
 ##Save Earth Save Life
+
 ![Alt Text](https://i.pinimg.com/originals/3d/d2/5c/3dd25cd21fefe17fa7f11471b3df06d9.gif)
