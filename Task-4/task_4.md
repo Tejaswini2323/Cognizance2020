@@ -16,7 +16,7 @@
 
 ***Chlorofluorocarbons** (CFCs). Synthetic compounds entirely of industrial origin used in a number of applications, but now largely regulated in production and release to the atmosphere by international agreement for their ability to contribute to destruction of the ozone layer. They are also greenhouse gases
 
-![Markdownlogo](https://skepticalscience.com/graphics/Fingerprints_570.jpg)
+![Markdownlogo](https://richmondvale.org/images/easyblog_images/115/b2ap3_large_--300x169.jpg)
 
 | Name of oxides  | Percentage in atmosphere|
 | --------------- | ----------------------- |
