@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="lenovo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-12-14 09:43:02 PM"/>
+        <attribute name="created" value="bGVub3ZvO0RFU0tUT1AtNU1RS1BCMzsyMDIwLTEyLTA5OzAzOjU4OjE4IFBNOzMwMTA="/>
+        <attribute name="edited" value="bGVub3ZvO0RFU0tUT1AtNU1RS1BCMzsyMDIwLTEyLTE0OzA5OjQzOjAyIFBNOzI7MzEwOA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sum" type="Integer" array="False" size=""/>
+            <declare name="number" type="Integer" array="False" size=""/>
+            <declare name="x" type="Integer" array="False" size=""/>
+            <declare name="digit" type="Integer" array="False" size=""/>
+            <assign variable="sum" expression="0"/>
+            <output expression="&quot;enter the number to check&quot;" newline="True"/>
+            <input variable="number"/>
+            <assign variable="x" expression="number"/>
+            <while expression="number&gt;0">
+                <assign variable="digit" expression="number%10"/>
+                <assign variable="sum" expression="sum +(digit*digit*digit)"/>
+                <assign variable="number" expression="number/10"/>
+            </while>
+            <if expression="sum==x">
+                <then>
+                    <output expression="&quot;The number is an armstrong number&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;The number is not an armstrong number&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
