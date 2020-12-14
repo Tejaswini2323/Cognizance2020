@@ -13,4 +13,4 @@
    * If sum ==x is true, then it is an Armstrong number.
    * If the sum ==x is false, then it is not an Armstrong number.
    
-![Alt text]("https://github.com/Tejaswini2323/Cognizance2020/blob/tejaswini/Task-6/armstrong.PNG")
+
