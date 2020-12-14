@@ -12,3 +12,5 @@
 8. If the while condition is false then:
    * If sum ==x is true, then it is an Armstrong number.
    * If the sum ==x is false, then it is not an Armstrong number.
+   
+![Screenshot](armstrong.png)
